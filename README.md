@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mahin Hossain
+# Hi 👋, I'm Mahin Hossain
 ## "Hey there! I'm Mahin, a dedicated and passionate student with a strong interest in programming and web development.
 
 - 👨‍💻 My portfolio website [https://mahin-ux.github.io/web-portfolio/]
@@ -19,5 +19,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahin-ux&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mahin-ux)  
-
-![Profile views](https://gpvc.arturio.dev/Mahin-ux)  
+ 

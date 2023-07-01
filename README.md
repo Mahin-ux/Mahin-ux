@@ -1,14 +1,14 @@
-### Hi there 👋, I'm Mahin Hossain
+# Hi there 👋, I'm Mahin Hossain
 #### "Hey there! I'm Abir, a dedicated and passionate student with a strong interest in programming and web development.
 
-- 🔭 I’m currently working on \ 
-- 🌱 I’m currently learning \ 
-- 👯 I’m looking to collaborate on \ 
-- 🤔 I’m looking for help with \ 
-- 💬 Ask me about \ 
-- 📫 How to reach me: \ 
-- 😄 Pronouns: \ 
-- ⚡ Fun fact: \ 
+- 👨‍💻 My portfolio website [https://mahin-ux.github.io/web-portfolio/]
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with
+- 💬 Ask me about 
+- 📫 How to reach me:
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahin-ux)  

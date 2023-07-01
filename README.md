@@ -2,8 +2,8 @@
 ## "Hey there! I'm Mahin, a dedicated and passionate student with a strong interest in programming and web development.
 
 - 👨‍💻 My portfolio website [https://mahin-ux.github.io/web-portfolio/]
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
+- 📝 I write articles on [].
+- 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native.
 - 🤔 I’m looking for help with
 - 💬 Ask me about 
 - 📫 How to reach me:

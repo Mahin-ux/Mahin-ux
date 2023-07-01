@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Mahin Hossain
-##"Hey there! I'm Abir, a dedicated and passionate student with a strong interest in programming and web development.
+## "Hey there! I'm Mahin, a dedicated and passionate student with a strong interest in programming and web development.
 
 - 👨‍💻 My portfolio website [https://mahin-ux.github.io/web-portfolio/]
 - 🌱 I’m currently learning 

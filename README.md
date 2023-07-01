@@ -4,11 +4,10 @@
 - 👨‍💻 My portfolio website [https://mahin-ux.github.io/web-portfolio/]
 - 📝 I write articles on [].
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native.
-- 🤔 I’m looking for help with
-- 💬 Ask me about 
-- 📫 How to reach me:
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2023-2024 Goals: Web3, Solidity, Golang, Dart+Flutter, Kotlin, and Swift.
+- ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
+- 📫 Reach me at mahinhossain962@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahin-ux)  

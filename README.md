@@ -11,7 +11,7 @@
 
 ### Connect with me:
 [<img align="left" alt="devarif.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](#)
-[<img align="left" alt="devarif.me | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />(https://www.facebook.com/profile.php?id=100092207993115)]
+[<img align="left" alt="devarif.me | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />(#)]
 [<img align="left" alt="devarif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
 [<img align="left" alt="arifpro | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Mahin-ux)
 [<img align="left" alt="arifpro | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](#)

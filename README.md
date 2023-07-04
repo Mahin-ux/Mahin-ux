@@ -10,7 +10,7 @@
 - 📫 Reach me at **mahinhossain962@gmail.com**
 
 ### Connect with me:
-[<img align="left" alt="devarif.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://devarif.me)
+[<img align="left" alt="devarif.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](#)
 [<img align="left" alt="devarif.me | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/devarif.me)
 [<img align="left" alt="devarif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/devarif)
 [<img align="left" alt="arifpro | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/arifpro)

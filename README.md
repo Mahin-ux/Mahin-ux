@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
 - 📫 Reach me at **mahinhossain962@gmail.com**
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> 
 <br />
 
 ### Connect with me:
@@ -23,7 +23,7 @@
 
 <br />
 
--->
+
 
 
 
@@ -113,3 +113,4 @@
 <p align="center">
   <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/Mahin-ux/count.svg" />
 </p>
+

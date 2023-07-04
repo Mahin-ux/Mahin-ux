@@ -9,9 +9,6 @@
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
 - 📫 Reach me at **mahinhossain962@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> 
-<br />
-
 ### Connect with me:
 [<img align="left" alt="devarif.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://devarif.me)
 [<img align="left" alt="devarif.me | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/devarif.me)

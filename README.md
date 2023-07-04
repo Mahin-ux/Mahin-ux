@@ -61,7 +61,7 @@
   </a>
    <a href="https://reactnative.dev/" target="_blank">
 
-     <img src="https://raw.githubusercontent.com/thetechdevs/devicon/master/icons/react-native/react-native-original-wordmark.svg" alt="react" width="40" height="40" />
+
   </a>
  <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" />

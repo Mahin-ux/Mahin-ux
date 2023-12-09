@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mahin Hossain</h1>
 <h3 align="center">"Hey there! I'm Mahin, a dedicated and passionate student with a strong interest in programming and web development.</h3>
 
-- 👨‍💻 My portfolio website [https://mahin-ux.github.io/web-portfolio/].
+- 👨‍💻 My portfolio website [...].
 - 📝 I write articles on [[]()].
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native.
 - 👯 I’m looking to collaborate with other content creators.
